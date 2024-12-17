@@ -62,23 +62,23 @@ const StyleGuide = () => {
           <h2 className="font-semibold mb-4">Images</h2>
           <ul className="space-y-3">
             <li className="flex items-center space-x-2">
-              <img src="/images/blue-chair.png" alt="Blue Chair" className="w-6 h-6 rounded-sm" />
+              <img src="/images/Photo.png" alt="Blue Chair" className="w-6 h-6 rounded-sm" />
               <span>Blue Chair</span>
             </li>
             <li className="flex items-center space-x-2">
-              <img src="/images/three-vases.png" alt="Three Vases" className="w-6 h-6 rounded-sm" />
+              <img src="/images/three vases.jpg" alt="Three Vases" className="w-6 h-6 rounded-sm" />
               <span>Three Vases</span>
             </li>
             <li className="flex items-center space-x-2">
-              <img src="/images/single-vase.png" alt="Single Vase" className="w-6 h-6 rounded-sm" />
+              <img src="/images/single.jpeg" alt="Single Vase" className="w-6 h-6 rounded-sm" />
               <span>Single Vase</span>
             </li>
             <li className="flex items-center space-x-2">
-              <img src="/images/ceiling-lamp.png" alt="Ceiling Lamp" className="w-6 h-6 rounded-sm" />
+              <img src="/images/lamp.jpeg" alt="Ceiling Lamp" className="w-6 h-6 rounded-sm" />
               <span>Ceiling Lamp</span>
             </li>
             <li className="flex items-center space-x-2">
-              <img src="/images/large-sofa.png" alt="Large Sofa" className="w-6 h-6 rounded-sm" />
+              <img src="/images/sofa.jpeg" alt="Large Sofa" className="w-6 h-6 rounded-sm" />
               <span>Large Sofa</span>
             </li>
           </ul>
